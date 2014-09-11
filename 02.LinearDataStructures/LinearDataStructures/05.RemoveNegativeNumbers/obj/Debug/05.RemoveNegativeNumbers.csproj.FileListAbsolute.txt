@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\05.RemoveNegativeNumbers\bin\Debug\05.RemoveNegativeNumbers.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\05.RemoveNegativeNumbers\obj\Debug\05.RemoveNegativeNumbers.pdb

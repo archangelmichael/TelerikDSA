@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\13.QueueImplementation\bin\Debug\13.QueueImplementation.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\13.QueueImplementation\bin\Debug\13.QueueImplementation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\13.QueueImplementation\bin\Debug\13.QueueImplementation.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\13.QueueImplementation\obj\Debug\13.QueueImplementation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\13.QueueImplementation\obj\Debug\13.QueueImplementation.pdb

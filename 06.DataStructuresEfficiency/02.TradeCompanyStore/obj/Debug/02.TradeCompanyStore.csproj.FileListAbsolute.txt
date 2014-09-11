@@ -1,0 +1,7 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\02.TradeCompanyStore\bin\Debug\02.TradeCompanyStore.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\02.TradeCompanyStore\obj\Debug\02.TradeCompanyStore.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\02.TradeCompanyStore\bin\Debug\02.TradeCompanyStore.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\02.TradeCompanyStore\bin\Debug\02.TradeCompanyStore.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\02.TradeCompanyStore\bin\Debug\PowerCollections.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\02.TradeCompanyStore\obj\Debug\02.TradeCompanyStore.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\02.TradeCompanyStore\obj\Debug\02.TradeCompanyStore.pdb

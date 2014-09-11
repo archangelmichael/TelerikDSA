@@ -1,0 +1,7 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\05.AdvancedDataStructures\02.ProductsAndPriceCollectionManipulation\bin\Debug\02.ProductsAndPriceCollectionManipulation.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\05.AdvancedDataStructures\02.ProductsAndPriceCollectionManipulation\bin\Debug\02.ProductsAndPriceCollectionManipulation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\05.AdvancedDataStructures\02.ProductsAndPriceCollectionManipulation\bin\Debug\02.ProductsAndPriceCollectionManipulation.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\05.AdvancedDataStructures\02.ProductsAndPriceCollectionManipulation\bin\Debug\PowerCollections.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\05.AdvancedDataStructures\02.ProductsAndPriceCollectionManipulation\obj\Debug\02.ProductsAndPriceCollectionManipulation.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\05.AdvancedDataStructures\02.ProductsAndPriceCollectionManipulation\obj\Debug\02.ProductsAndPriceCollectionManipulation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\05.AdvancedDataStructures\02.ProductsAndPriceCollectionManipulation\obj\Debug\02.ProductsAndPriceCollectionManipulation.pdb

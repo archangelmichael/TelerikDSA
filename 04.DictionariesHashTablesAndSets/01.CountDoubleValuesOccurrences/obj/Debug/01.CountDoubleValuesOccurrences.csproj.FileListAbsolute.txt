@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\01.CountDoubleValuesOccurrences\bin\Debug\01.CountDoubleValuesOccurrences.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\01.CountDoubleValuesOccurrences\obj\Debug\01.CountDoubleValuesOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\01.CountDoubleValuesOccurrences\bin\Debug\01.CountDoubleValuesOccurrences.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\01.CountDoubleValuesOccurrences\bin\Debug\01.CountDoubleValuesOccurrences.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\01.CountDoubleValuesOccurrences\obj\Debug\01.CountDoubleValuesOccurrences.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\01.CountDoubleValuesOccurrences\obj\Debug\01.CountDoubleValuesOccurrences.pdb

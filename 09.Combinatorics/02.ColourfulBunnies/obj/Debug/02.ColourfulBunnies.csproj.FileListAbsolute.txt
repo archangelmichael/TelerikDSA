@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\02.ColourfulBunnies\bin\Debug\02.ColourfulBunnies.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\02.ColourfulBunnies\bin\Debug\02.ColourfulBunnies.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\02.ColourfulBunnies\bin\Debug\02.ColourfulBunnies.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\02.ColourfulBunnies\obj\Debug\02.ColourfulBunnies.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\02.ColourfulBunnies\obj\Debug\02.ColourfulBunnies.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\02.ColourfulBunnies\obj\Debug\02.ColourfulBunnies.pdb

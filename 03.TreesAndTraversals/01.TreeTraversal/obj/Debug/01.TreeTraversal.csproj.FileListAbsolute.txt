@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\03.TreesAndTraversals\01.TreeTraversal\bin\Debug\01.TreeTraversal.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\03.TreesAndTraversals\01.TreeTraversal\obj\Debug\01.TreeTraversal.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\03.TreesAndTraversals\01.TreeTraversal\bin\Debug\01.TreeTraversal.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\03.TreesAndTraversals\01.TreeTraversal\bin\Debug\01.TreeTraversal.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\03.TreesAndTraversals\01.TreeTraversal\obj\Debug\01.TreeTraversal.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\03.TreesAndTraversals\01.TreeTraversal\obj\Debug\01.TreeTraversal.pdb

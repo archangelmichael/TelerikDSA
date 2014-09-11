@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\01.NestedLoopsSimulation\bin\Debug\01.NestedLoopsSimulation.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\01.NestedLoopsSimulation\bin\Debug\01.NestedLoopsSimulation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\01.NestedLoopsSimulation\bin\Debug\01.NestedLoopsSimulation.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\01.NestedLoopsSimulation\obj\Debug\01.NestedLoopsSimulation.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\01.NestedLoopsSimulation\obj\Debug\01.NestedLoopsSimulation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\01.NestedLoopsSimulation\obj\Debug\01.NestedLoopsSimulation.pdb

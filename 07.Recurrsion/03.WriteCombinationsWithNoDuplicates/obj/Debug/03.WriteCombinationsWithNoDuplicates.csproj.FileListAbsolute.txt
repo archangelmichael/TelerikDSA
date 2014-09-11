@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\03.WriteCombinationsWithNoDuplicates\bin\Debug\03.WriteCombinationsWithNoDuplicates.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\03.WriteCombinationsWithNoDuplicates\bin\Debug\03.WriteCombinationsWithNoDuplicates.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\03.WriteCombinationsWithNoDuplicates\bin\Debug\03.WriteCombinationsWithNoDuplicates.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\03.WriteCombinationsWithNoDuplicates\obj\Debug\03.WriteCombinationsWithNoDuplicates.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\03.WriteCombinationsWithNoDuplicates\obj\Debug\03.WriteCombinationsWithNoDuplicates.pdb

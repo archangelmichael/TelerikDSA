@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\06.SubsetsOfKStrings\bin\Debug\06.SubsetsOfKStrings.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\06.SubsetsOfKStrings\bin\Debug\06.SubsetsOfKStrings.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\06.SubsetsOfKStrings\bin\Debug\06.SubsetsOfKStrings.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\06.SubsetsOfKStrings\obj\Debug\06.SubsetsOfKStrings.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\06.SubsetsOfKStrings\obj\Debug\06.SubsetsOfKStrings.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\06.SubsetsOfKStrings\obj\Debug\06.SubsetsOfKStrings.pdb

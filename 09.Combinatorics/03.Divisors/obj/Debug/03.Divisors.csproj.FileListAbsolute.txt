@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\03.Divisors\bin\Debug\03.Divisors.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\03.Divisors\bin\Debug\03.Divisors.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\03.Divisors\bin\Debug\03.Divisors.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\03.Divisors\obj\Debug\03.Divisors.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\03.Divisors\obj\Debug\03.Divisors.pdb

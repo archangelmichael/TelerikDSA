@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DataStructuresAndAlgorithms\02.LinearDataStructures\LinearDataStructures\03.SortSequenceASC\bin\Debug\03.SortSequenceASC.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DataStructuresAndAlgorithms\02.LinearDataStructures\LinearDataStructures\03.SortSequenceASC\bin\Debug\03.SortSequenceASC.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DataStructuresAndAlgorithms\02.LinearDataStructures\LinearDataStructures\03.SortSequenceASC\bin\Debug\03.SortSequenceASC.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DataStructuresAndAlgorithms\02.LinearDataStructures\LinearDataStructures\03.SortSequenceASC\obj\Debug\03.SortSequenceASC.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DataStructuresAndAlgorithms\02.LinearDataStructures\LinearDataStructures\03.SortSequenceASC\obj\Debug\03.SortSequenceASC.pdb

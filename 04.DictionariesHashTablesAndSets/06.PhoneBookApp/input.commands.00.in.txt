@@ -1,0 +1,4 @@
+﻿find(Gancho)
+find(Kireto, Varna)
+find(Vladi, Primorsko)
+find(Petrova, Karnobat)

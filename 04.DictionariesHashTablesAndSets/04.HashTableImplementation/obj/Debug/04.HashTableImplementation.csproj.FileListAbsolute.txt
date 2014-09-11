@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\04.HashTableImplementation\bin\Debug\04.HashTableImplementation.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\04.HashTableImplementation\bin\Debug\04.HashTableImplementation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\04.HashTableImplementation\bin\Debug\04.HashTableImplementation.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\04.HashTableImplementation\obj\Debug\04.HashTableImplementation.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\04.HashTableImplementation\obj\Debug\04.HashTableImplementation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\04.HashTableImplementation\obj\Debug\04.HashTableImplementation.pdb

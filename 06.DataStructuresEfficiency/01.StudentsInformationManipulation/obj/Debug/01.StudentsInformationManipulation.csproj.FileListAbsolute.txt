@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\01.StudentsInformationManipulation\bin\Debug\01.StudentsInformationManipulation.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\01.StudentsInformationManipulation\bin\Debug\01.StudentsInformationManipulation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\01.StudentsInformationManipulation\bin\Debug\01.StudentsInformationManipulation.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\01.StudentsInformationManipulation\obj\Debug\01.StudentsInformationManipulation.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\01.StudentsInformationManipulation\obj\Debug\01.StudentsInformationManipulation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\01.StudentsInformationManipulation\obj\Debug\01.StudentsInformationManipulation.pdb

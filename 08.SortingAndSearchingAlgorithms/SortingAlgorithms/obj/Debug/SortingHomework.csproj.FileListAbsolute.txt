@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\08.SortingAndSearchingAlgorithms\SortingAlgorithms\bin\Debug\SortingHomework.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\08.SortingAndSearchingAlgorithms\SortingAlgorithms\bin\Debug\SortingHomework.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\08.SortingAndSearchingAlgorithms\SortingAlgorithms\bin\Debug\SortingHomework.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\08.SortingAndSearchingAlgorithms\SortingAlgorithms\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\08.SortingAndSearchingAlgorithms\SortingAlgorithms\obj\Debug\SortingHomework.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\08.SortingAndSearchingAlgorithms\SortingAlgorithms\obj\Debug\SortingHomework.pdb

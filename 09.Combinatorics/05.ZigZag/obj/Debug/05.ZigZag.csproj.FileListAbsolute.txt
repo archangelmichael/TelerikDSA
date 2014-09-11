@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\05.ZigZag\bin\Debug\05.ZigZag.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\05.ZigZag\bin\Debug\05.ZigZag.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\05.ZigZag\bin\Debug\05.ZigZag.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\05.ZigZag\obj\Debug\05.ZigZag.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\05.ZigZag\obj\Debug\05.ZigZag.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\09.Combinatorics\05.ZigZag\obj\Debug\05.ZigZag.pdb

@@ -1,0 +1,6 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\07.FindPathsInMatrix\bin\Debug\07.FindPathsInMatrix.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\07.FindPathsInMatrix\bin\Debug\07.FindPathsInMatrix.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\07.FindPathsInMatrix\bin\Debug\07.FindPathsInMatrix.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\07.FindPathsInMatrix\obj\Debug\07.FindPathsInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\07.FindPathsInMatrix\obj\Debug\07.FindPathsInMatrix.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\07.FindPathsInMatrix\obj\Debug\07.FindPathsInMatrix.pdb

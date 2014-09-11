@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\08.SearchForPossiblePath\bin\Debug\08.SearchForPossiblePath.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\08.SearchForPossiblePath\bin\Debug\08.SearchForPossiblePath.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\08.SearchForPossiblePath\bin\Debug\08.SearchForPossiblePath.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\08.SearchForPossiblePath\obj\Debug\08.SearchForPossiblePath.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\07.Recurrsion\08.SearchForPossiblePath\obj\Debug\08.SearchForPossiblePath.pdb

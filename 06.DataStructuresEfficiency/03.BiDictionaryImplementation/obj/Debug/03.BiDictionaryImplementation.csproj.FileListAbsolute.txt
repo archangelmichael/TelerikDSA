@@ -1,0 +1,7 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\03.BiDictionaryImplementation\bin\Debug\03.BiDictionaryImplementation.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\03.BiDictionaryImplementation\bin\Debug\03.BiDictionaryImplementation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\03.BiDictionaryImplementation\bin\Debug\03.BiDictionaryImplementation.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\03.BiDictionaryImplementation\bin\Debug\PowerCollections.dll
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\03.BiDictionaryImplementation\obj\Debug\03.BiDictionaryImplementation.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\03.BiDictionaryImplementation\obj\Debug\03.BiDictionaryImplementation.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\06.DataStructuresEfficiency\03.BiDictionaryImplementation\obj\Debug\03.BiDictionaryImplementation.pdb

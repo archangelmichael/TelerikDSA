@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\14.Labyrint\bin\Debug\14.Labyrint.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\14.Labyrint\bin\Debug\14.Labyrint.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\14.Labyrint\bin\Debug\14.Labyrint.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\14.Labyrint\obj\Debug\14.Labyrint.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\02.LinearDataStructures\LinearDataStructures\14.Labyrint\obj\Debug\14.Labyrint.pdb

@@ -1,0 +1,1 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DataStructuresAndAlgorithms\HashTableApp\HashTableApp\bin\Debug\HashTableApp.exe.config

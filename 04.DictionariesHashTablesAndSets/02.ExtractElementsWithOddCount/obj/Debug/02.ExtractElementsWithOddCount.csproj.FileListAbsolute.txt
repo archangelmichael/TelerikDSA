@@ -1,0 +1,5 @@
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\02.ExtractElementsWithOddCount\bin\Debug\02.ExtractElementsWithOddCount.exe.config
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\02.ExtractElementsWithOddCount\bin\Debug\02.ExtractElementsWithOddCount.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\02.ExtractElementsWithOddCount\bin\Debug\02.ExtractElementsWithOddCount.pdb
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\02.ExtractElementsWithOddCount\obj\Debug\02.ExtractElementsWithOddCount.exe
+C:\Users\ARCHANGEL\Documents\Visual Studio 2012\Projects\08.2014.DSA\04.DictionariesHashTablesAndSets\02.ExtractElementsWithOddCount\obj\Debug\02.ExtractElementsWithOddCount.pdb
